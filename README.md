@@ -6,12 +6,12 @@ This study applies the personality prediction of a Twitter user based on the wor
 
 ### Algorithm:
 * KNN
-*Decision Tree
-*Random Forest(RF)
-*AdaBoost
-*Stochastic gradient descent(SGD)
-*Gradient boosting(GB)
-*SVM
+* Decision Tree
+* Random Forest(RF)
+* AdaBoost
+* Stochastic gradient descent(SGD)
+* Gradient boosting(GB)
+* SVM
 
 
 
