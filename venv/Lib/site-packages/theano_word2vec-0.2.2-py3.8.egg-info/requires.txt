@@ -1,0 +1,6 @@
+numpy
+scipy
+theano
+lasagne
+iterable-queue==1.2.1
+categorical
